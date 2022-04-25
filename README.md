@@ -1,7 +1,7 @@
 # My Reading Notes
 
 ## About Me
-Heyo, my name's Joseph. 
+Heyo! My name's Joseph and this is one of my first Code Fellows assignments about *Growth Mindset*.
 
 ### On obtaining a Growth Mindset.
 
