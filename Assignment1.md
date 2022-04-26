@@ -1,6 +1,8 @@
 # Markdown Syntax 
 
-What is this coding stuff? How does one even communicate with the machines?
+## What is this coding stuff? 
+
+### How does one even communicate with the machines?
 
 Well, **syntax** is defined as the *arrangement of words and phrases to create well-formed sentences in a language.*
 Cool! Easy, right? Well, thanks to cheat sheets provided by those who came before, absolutely. If you have patience.
