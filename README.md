@@ -1,9 +1,7 @@
-# My Reading Notes
-
-## About Me
+# About Me
 Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century with all the basic education required to survive. This is one of my first Code Fellows assignments about *Growth Mindset*. 
 
-### On obtaining a Growth Mindset.
+## On obtaining a Growth Mindset.
 
 Without being trained from a youth on how to grasp and hold such a mindstate, attaining and maintaining a *Growth Mindset* seems impossible to me, sort of like breathing in a candle flame and keeping the fire lit as it flows through your lungs. Maybe I'm overcomplicating the process. Maybe one should just focus on the fundamentals of developing the type of temple capable of housing such a mindset; breathing. "Keep it simple, stupid" as they would say in the "Ol' Navy". If one doesn't even have the basics down, like optimal breathiing, maintaining a growth mindset can only be forced. Maybe the breath isn't necessary. Maybe just a willpower that has been strengthened to the point where the mind can move mountains is all that is necessary in a true *Growth Mindset*. Contemplating the similarities between machines and human beings, I've repeatedly come to the conclusion that one should be able to just dictate to the self a list of commands and program the subconscious mind into guiding the conscious self according to the newly acquired parameters. Quite the difficult task when so much data is corrupted and even more memory has been utilized by the philosophies and idealogies which were blindly and unquestioningly accepted. 
 
