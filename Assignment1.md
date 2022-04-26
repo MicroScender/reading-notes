@@ -15,10 +15,10 @@ web by utilization of what's called **markdown syntax**. Using markdown syntax i
 sorts of different programming languages.
 
 Below are just some of the things you can do with markdown syntax.
-+ Create multiple headlines for your paragraphs
-+ Emphasize important terms or concepts by utilizing
-  +Bold
-  +Italics
-+ Write lists 
-+ Insert links to other web pages
-+ Insert pictures onto your own page
+- Create multiple headlines for your paragraphs
+- Emphasize important terms or concepts by utilizing
+  -Bold
+  -Italics
+- Write lists 
+- Insert links to other web pages
+- Insert pictures onto your own page
