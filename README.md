@@ -5,7 +5,7 @@ Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century. As of A
 * [Class 1a Growth Mindset](https://microscender.github.io/reading-notes/C1a_GrowthMindset.md)
 * [Class 1b Markdown](https://microscender.github.io/reading-notes/C1b_Markdown.md)
 * [Class 2 Coders Computer](https://microscender.github.io/reading-notes/C2_CodersComputer.md)
-* [C3_Cloud.md](https://microscender.github.io/reading-notes/C3_Cloud.md)
-* [C4_WebpageStructures.md](https://microscender.github.io/reading-notes/C4_WebpageStructures.md)
+* [Class 3 Cloud](https://microscender.github.io/reading-notes/C3_Cloud.md)
+* [Class 4 Webpage Structures](https://microscender.github.io/reading-notes/C4_WebpageStructures.md)
 
 <https://github.com/MicroScender>
