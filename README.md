@@ -7,5 +7,9 @@ Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century. As of A
 * [Class 2 Coders Computer](https://microscender.github.io/reading-notes/C2_CodersComputer.md)
 * [Class 3 Cloud](https://microscender.github.io/reading-notes/C3_Cloud.md)
 * [Class 4 Webpage Structures](https://microscender.github.io/reading-notes/C4_WebpageStructures.md)
+* [Class 5 CSS](https://microscender.github.io/reading-notes/C5_CSS.md)
+* [Class 6 Dynamic Web](https://microscender.github.io/reading-notes/C6_DynamicWeb.md)
+* [Class 7 JavaScript](https://microscender.github.io/reading-notes/C7_JSProgramming.md)
+* [Class 8 Operators & Loops](https://microscender.github.io/reading-notes/C8_Loops&Operators.md)
 
 <https://github.com/MicroScender>
