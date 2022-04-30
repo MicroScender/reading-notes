@@ -1,5 +1,5 @@
 # About Me
-Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century. As of April 24th - 29th I am lucky enough to participate in learning HTML, CSS, JavaScript and other software engineering concepts by participating in the Code Fellows 102 cohort. What is contained here is the assignments from this learning experience.
+Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century. As of April 24th - 29th I am lucky enough to participate in learning HTML, CSS, JavaScript and other software engineering concepts by participating in the Code Fellows 102 cohort. What is contained here is the assignments from this learning experience. Enjoying the breaking process, the fix is more pleasing though.
 
 ### Table of contents
 * [Class 1a Growth Mindset](C1a_GrowthMindset.md)
