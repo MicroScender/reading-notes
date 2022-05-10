@@ -20,7 +20,7 @@ Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century. As of A
 
 ### TOC
 * [CL 1](201_C1.md)
-* CL 2
+* [CL 2](201_C2.md)
 * CL 3
 * CL 4
 * CL 5
