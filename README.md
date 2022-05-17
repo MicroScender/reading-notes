@@ -25,7 +25,7 @@ Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century. As of A
 * [CL 4](201_C4.md)
 * CL 5
 * CL 6
-* CL 7
+* [201-7-HTMLtables&CronstructorFunctions](201_C7_HTMLtables_JSConstructorFunctions.md)
 * CL 8
 * CL 9
 * CL 10
