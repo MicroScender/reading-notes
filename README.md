@@ -1,5 +1,5 @@
 # About Me
-Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century. As of April 24th - 29th I am lucky enough to participate in learning HTML, CSS, JavaScript and other software engineering concepts by learning at Code Fellows. What is contained here is the assignments from this learning experience. Enjoying the breaking process, the fix is more pleasing though.
+Heyo! My name's Joseph. Not much to me. I'm a human in the 21st century. As of April 24th, 2022, I am lucky enough to participate in learning HTML, CSS, JavaScript and other software engineering concepts by learning at Code Fellows. What is contained here is the assignments from this learning experience. Enjoying the breaking process, the fix is more pleasing though.
 
 # 102
 
