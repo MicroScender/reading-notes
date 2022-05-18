@@ -3,8 +3,10 @@
 # Notes from [Web.Dev CSS layout](https://web.dev/learn/css/layout/)
 
 ## Layout
+oveview of methods available when building a page component
 
 ### Display
+determines if the box it is applied to acts as inline or block and determines how an element's children should behave.
 * Inline
 * Margin
 * Padding
