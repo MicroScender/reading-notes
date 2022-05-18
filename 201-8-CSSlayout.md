@@ -1,4 +1,4 @@
-*5 minutes alloted for reading notes submission (**will add notes at a later date**)*
+*15 minutes alloted for reading notes submission (**will add notes at a later date**)*
 
 # Notes from [Web.Dev CSS layout](https://web.dev/learn/css/layout/)
 
